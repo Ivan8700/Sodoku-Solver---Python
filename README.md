@@ -1,2 +1,2 @@
-# Sodoku-Solver---Python
-Sodoku solver using python with the "backtracking" algorithm
+Sodoku solver using the "backtracking" algorithm, implemented in Python.
+
